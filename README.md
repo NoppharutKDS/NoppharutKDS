@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Noppharut Kongsakdinasarn
-- ✨Nice to meet You✨
+### I'm Noppharut Kongsakdinasarn. 👋😄 Nice to meet you~!
+
+[![GitHub stats (refresh page again)](https://github-readme-stats.vercel.app/api?username=NoppharutKDS&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 Programming & Development Skills and Knowledges
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
