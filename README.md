@@ -1,6 +1,11 @@
 ### I'm Noppharut Kongsakdinasarn. 👋😄 Nice to meet you~!
 
-[![GitHub stats (refresh page again)](https://github-readme-stats.vercel.app/api?username=NoppharutKDS&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/NoppharutKDS/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NoppharutKDS&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/NoppharutKDS/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoppharutKDS&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+</a>
 
 ## 👨‍💻 Programming & Development Skills and Knowledges
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
