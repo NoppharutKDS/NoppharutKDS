@@ -1,3 +1,5 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### I'm Noppharut Kongsakdinasarn. 👋😄 Nice to meet you~!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
