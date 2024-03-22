@@ -1,6 +1,6 @@
 ### I'm Noppharut Kongsakdinasarn. 👋😄 Nice to meet you~!
 
-<a href="https://github.com/NoppharutKDS/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NoppharutKDS&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/NoppharutKDS/convoychat">
