@@ -1,5 +1,4 @@
-### I'm Noppharut Kongsakdinasarn. 👋😄 Nice to meet you~!
-
+<h2 align="center">I'm Noppharut Kongsakdinasarn. 👋😄 Nice to meet you~!</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NoppharutKDS&show_icons=true&theme=tokyonight" />
 </a>
@@ -51,7 +50,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
 
 ## 🎨 Design Making Skills
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
